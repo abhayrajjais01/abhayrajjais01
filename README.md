@@ -41,7 +41,7 @@ I am a systems-focused software engineer specializing in **low-level C/C++ progr
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Abhayraj Jaiswal](https://www.linkedin.com/in/abhayraj-jaiswal-738947231/)
+- **LinkedIn:** [Abhayraj Jaiswal](https://www.linkedin.com/in/abhayraj-jaiswal)
 - **Email:** [abhayraj916146@gmail.com](mailto:abhayraj916146@gmail.com)
 - **GitHub:** [abhayrajjais01](https://github.com/abhayrajjais01)
 
