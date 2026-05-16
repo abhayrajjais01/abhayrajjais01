@@ -40,8 +40,10 @@ I am a systems-focused software engineer specializing in **low-level C/C++ progr
 ---
 
 ### 📊 GitHub Stats
-![Abhayraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayrajjais01&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayrajjais01&layout=compact&theme=tokyonight)
+[![Abhayraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayrajjais01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayrajjais01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
