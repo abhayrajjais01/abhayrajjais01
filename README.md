@@ -37,13 +37,6 @@ I am a systems-focused software engineer specializing in **low-level C/C++ progr
 *   **EVerest (LF Energy):** Contributed to the modular framework for EV charging infrastructure.
 *   **KubeSlice:** Worked on partial mesh support for multi-cluster networking.
 
----
-
-### 📊 GitHub Stats
-[![Abhayraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhayrajjais01&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayrajjais01&layout=compact)
-
 
 ---
 
